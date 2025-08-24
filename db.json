@@ -1,0 +1,71 @@
+{
+  "packages": [
+    {
+      "id": "1",
+      "name": "Bali Getaway",
+      "price": 1200,
+      "description": "7 days in Bali with guided tours"
+    },
+    {
+      "id": "60d2",
+      "name": "Maldivian Paradise",
+      "description": "7 Days",
+      "price": "7000"
+    },
+    {
+      "id": "ed99",
+      "name": "Paris-Getaway",
+      "price": "8200",
+      "description": "12 Days in Paris"
+    },
+    {
+      "id": "6899",
+      "name": "GOA-Beach Vibes",
+      "price": "1200",
+      "description": "5 Days  With DJ party"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "2f47",
+      "customer": "fawas",
+      "packageId": "60d2",
+      "date": "2025-08-24"
+    },
+    {
+      "id": "9bce",
+      "customer": "fawas",
+      "packageId": "60d2"
+    },
+    {
+      "id": "2436",
+      "customer": "ram",
+      "packageId": "1"
+    },
+    {
+      "id": "6a54",
+      "customer": "fawas",
+      "packageId": "60d2"
+    },
+    {
+      "id": "d84c",
+      "customer": "fawas",
+      "packageId": "60d2"
+    },
+    {
+      "id": "690a",
+      "customer": "ravi",
+      "packageId": "ed99"
+    },
+    {
+      "id": "c9f6",
+      "customer": "shibu",
+      "packageId": "60d2"
+    },
+    {
+      "id": "fb5d",
+      "customer": "jerin",
+      "packageId": "60d2"
+    }
+  ]
+}
